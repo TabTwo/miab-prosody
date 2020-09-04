@@ -1,0 +1,5 @@
+# install prosody
+apt install prosody prosody-modules
+
+# get list of domains 
+grep server_name /etc/nginx/conf.d/local.conf  |grep -Ev 'autodiscover|autoconfig|www|xn--'| uniq
