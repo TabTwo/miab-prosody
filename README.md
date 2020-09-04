@@ -1,6 +1,6 @@
 Prosody module for mail in a box
 
-- [ ] mod_auth_imap
+- [ ] mod_auth_imap https://modules.prosody.im/mod_auth_imap.html
 - [ ] pull all domains from miab
 - [ ] create a config file for each domain -> ansible/jinja2?
 - [ ] make miab adminuser admin in each domain or create user and send mail to admin
