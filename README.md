@@ -1,5 +1,8 @@
 Prosody module for mail in a box
 
+Architecture of Mail in a box
+https://mailinabox.email/static/architecture.svg
+
 - [ ] mod_auth_imap https://modules.prosody.im/mod_auth_imap.html
 - [ ] pull all domains from miab
 - [ ] create a config file for each domain -> ansible/jinja2?
