@@ -12,7 +12,8 @@ https://mailinabox.email/static/architecture.svg
 - [ ] create tlsa records
 - [ ] pull in certificates from miab, certbot hook available?
 - [ ] do users have to be created manually or are they created on the fly by auth_imap?
-- [ ] web chat like /mail -> /xmpp, how to integrate in nginx? 
+- [ ] web chat like /mail -> /xmpp, how to integrate in nginx?
+https://modules.prosody.im/mod_conversejs.html
 - [ ] what modules?
 - [ ] recognize new domains, preferably by hook
 - [ ] muc for every domain
